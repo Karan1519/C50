@@ -1,0 +1,45 @@
+h1  {
+    color:rgb(81, 255, 0);
+}
+*{
+    border:solid;
+}
+.header{
+    display:flex;
+    justify-content:flex-start;
+    background-color: aqua;
+}
+.paragraph{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(179, 248, 245);
+}
+.trex{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(182, 216, 214);
+}
+.pong{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(182, 216, 214);
+}
+.bird{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(182, 216, 214);
+}
+.car{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(182, 216, 214);
+}
+
+.icon{
+    display:flex;
+    justify-content:flex-start;
+    background-color: rgb(182, 216, 214);
+}
+
+
+
